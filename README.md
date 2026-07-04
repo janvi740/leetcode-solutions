@@ -6,17 +6,20 @@
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/janvi740/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/janvi740/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/janvi740/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -28,6 +31,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvi740/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +64,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 <!---LeetCode Topics End-->
