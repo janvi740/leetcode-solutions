@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -13,6 +14,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -102,4 +104,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
