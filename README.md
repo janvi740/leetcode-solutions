@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -108,8 +109,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
