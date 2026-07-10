@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvi740/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -55,6 +56,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/janvi740/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/janvi740/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvi740/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -93,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
