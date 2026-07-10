@@ -3,31 +3,35 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int[][] dp = new int[m][n];
+        int[] prev = new int[n];
         
         for(int i=0; i<m; i++){
+
+            int[] curr = new int[n];
+
             for(int j=0; j<n; j++){
 
                 if(i==0 && j==0){
-                    dp[i][j] = grid[i][j];
+                    curr[j] = grid[i][j];
                 }
                 else{
                     int up = 1_000_000_000;
                     int left = 1_000_000_000;
 
                     if(i>0){
-                        up = dp[i-1][j];
+                        up = prev[j];
                     }
 
                     if(j>0){
-                        left = dp[i][j-1];
+                        left = curr[j-1];
                     }
 
-                    dp[i][j] = grid[i][j] + Math.min(up, left);
+                    curr[j] = grid[i][j] + Math.min(up, left);
                 }
             }
+            prev = curr;
         }
 
-        return dp[m-1][n-1];
+        return prev[n-1];
     }
 }
