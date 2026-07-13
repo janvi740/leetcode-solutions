@@ -3,21 +3,24 @@ class Solution {
         int rows = grid.length;
         int cols = grid[0].length;
 
-        int[][][] dp = new int[rows][cols][cols];
+        int[][] front = new int[cols][cols];
 
         for(int j1=0; j1<cols; j1++){
             for(int j2=0; j2<cols; j2++){
 
                 if(j1==j2){
-                    dp[rows-1][j1][j2] = grid[rows-1][j1];
+                    front[j1][j2] = grid[rows-1][j1];
                 }
                 else{
-                    dp[rows-1][j1][j2] = grid[rows-1][j1] + grid[rows-1][j2];
+                    front[j1][j2] = grid[rows-1][j1] + grid[rows-1][j2];
                 }
             }
         }
 
         for(int i=rows-2; i>=0; i--){
+
+            int[][] curr = new int[cols][cols];
+
             for(int j1=0; j1<cols; j1++){
                 for(int j2=0; j2<cols; j2++){
                     
@@ -42,7 +45,7 @@ class Solution {
 
                             if(nextj1 >= 0 && nextj1 < cols && nextj2 >= 0 && nextj2 < cols){
 
-                                next = dp[i+1][nextj1][nextj2];
+                                next = front[nextj1][nextj2];
                             }
                             else{
                                 next = -1_000_000_000;
@@ -52,11 +55,13 @@ class Solution {
                         }
                     }
 
-                    dp[i][j1][j2] = maxCherries;
+                    curr[j1][j2] = maxCherries;
                 }
             }
+
+            front = curr;
         }
 
-        return dp[0][0][cols-1];
+        return front[0][cols-1];
     }
 }
