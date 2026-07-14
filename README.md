@@ -48,6 +48,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvi740/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/janvi740/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -66,6 +67,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/janvi740/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/janvi740/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
