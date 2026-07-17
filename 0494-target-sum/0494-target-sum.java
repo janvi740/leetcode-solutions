@@ -17,34 +17,40 @@ class Solution {
         
         int subsetTarget = (totalSum + target) / 2;
         
-        int[][] dp = new int[n][subsetTarget+1];
+        int[] prev = new int[subsetTarget+1];
 
         if(nums[0]==0){
-            dp[0][0] = 2;
+            prev[0] = 2;
         }
         else{
-            dp[0][0] = 1;
+            prev[0] = 1;
         }
 
         if(nums[0]!=0 && nums[0] <= subsetTarget){
-            dp[0][nums[0]] = 1;
+            prev[nums[0]] = 1;
         }
 
         for(int index=1; index<n; index++){
+
+            int[] curr = new int[subsetTarget+1];
+            curr[0] = 0;
+
             for(int sum=0; sum<=subsetTarget; sum++){
 
-                int notPick = dp[index-1][sum];
+                int notPick = prev[sum];
 
                 int pick = 0;
 
                 if(nums[index] <= sum){
-                    pick = dp[index-1][sum-nums[index]];
+                    pick = prev[sum-nums[index]];
                 }
 
-                dp[index][sum] = pick + notPick;
+                curr[sum] = pick + notPick;
             }
+
+            prev = curr;
         }
 
-        return dp[n-1][subsetTarget];
+        return prev[subsetTarget];
     }
 }
