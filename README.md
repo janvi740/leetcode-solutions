@@ -69,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/janvi740/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvi740/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/janvi740/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
@@ -158,6 +160,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/janvi740/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -215,4 +218,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
