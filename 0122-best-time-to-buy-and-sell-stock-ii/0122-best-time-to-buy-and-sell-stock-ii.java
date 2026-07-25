@@ -2,15 +2,18 @@ class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
 
-        int[][] dp = new int[n+1][2];
+        int[] ahead = new int[2];
+        int[] curr = new int[2];
 
         for(int index=n-1; index>=0; index--){
 
-            dp[index][1] = Math.max(-prices[index] + dp[index+1][0] , dp[index+1][1]);
+            curr[1] = Math.max(-prices[index] + ahead[0] , ahead[1]);
 
-            dp[index][0] = Math.max(prices[index] + dp[index+1][1], dp[index+1][0]);
+            curr[0] = Math.max(prices[index] + ahead[1], ahead[0]);
+
+             ahead = curr;
         }
 
-        return dp[0][1];
+        return ahead[1];
     }
 }
