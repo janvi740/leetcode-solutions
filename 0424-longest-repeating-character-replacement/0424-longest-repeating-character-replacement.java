@@ -7,11 +7,13 @@ class Solution {
         int maxFreq = 0;
 
         for(int right=0; right<s.length(); right++){
+
             char ch = s.charAt(right);
 
             freq[ch - 'A']++;
+
             maxFreq = Math.max(maxFreq, freq[ch - 'A']);
-            int winSize = right-left+1;
+            int winSize = right - left + 1;
 
             if(winSize - maxFreq > k){
                 freq[s.charAt(left) - 'A']--;
