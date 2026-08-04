@@ -11,8 +11,8 @@ class Solution {
         }
 
         int left = 0;
-        int count = t.length();
         int start = 0;
+        int count = t.length();
         int minLen = Integer.MAX_VALUE;
 
         for(int right=0; right<s.length(); right++){
@@ -23,19 +23,19 @@ class Solution {
             }
             freq[rch]--;
 
-            while(count==0){
+            while(count == 0){
                 if(right-left+1 < minLen){
                     minLen = right-left+1;
                     start = left;
                 }
 
                 char lch = s.charAt(left);
-
                 freq[lch]++;
 
-                if(freq[lch]>0){
+                if(freq[lch] > 0){
                     count++;
                 }
+
                 left++;
             }
         }
