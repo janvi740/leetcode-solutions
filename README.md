@@ -139,6 +139,7 @@
 | [0076-minimum-window-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/janvi740/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/janvi740/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -156,6 +157,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/janvi740/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/janvi740/leetcode-solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -168,6 +170,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvi740/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/janvi740/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +267,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
