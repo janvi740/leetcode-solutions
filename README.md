@@ -13,6 +13,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -29,6 +30,7 @@
 | [0322-coin-change](https://github.com/janvi740/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -39,6 +41,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -49,6 +52,7 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/janvi740/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/janvi740/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
