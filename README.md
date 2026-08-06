@@ -16,6 +16,7 @@
 | [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/janvi740/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -34,6 +35,7 @@
 | [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/janvi740/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/janvi740/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -56,6 +58,7 @@
 | [0133-clone-graph](https://github.com/janvi740/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/janvi740/leetcode-solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/janvi740/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -275,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,4 +326,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/janvi740/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
