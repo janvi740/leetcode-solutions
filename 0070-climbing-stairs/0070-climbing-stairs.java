@@ -1,23 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-        if(n==1){
-            return 1;
+
+        int[] dp = new int[n+2];
+
+        dp[n] = 1;
+        dp[n+1] = 0;
+
+        for(int index=n-1; index>=0; index--){
+
+            int oneStep = dp[index+1];
+            int twoStep = dp[index+2];
+
+            dp[index] = oneStep + twoStep;
         }
 
-        if(n==2){
-            return 2;
-        }
-
-        int prev1 = 2;
-        int prev2 = 1;
-
-        for(int i=3; i<=n; i++){
-            int curr = prev1 + prev2;
-
-            prev2 = prev1;
-            prev1 = curr;
-        }
-
-        return prev1;
+        return dp[0];
     }
 }
