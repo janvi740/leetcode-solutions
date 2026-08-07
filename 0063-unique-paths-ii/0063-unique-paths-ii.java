@@ -3,38 +3,35 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
 
-        int[] prev = new int[n];
+        int[][] dp = new int[m][n];
 
-        for(int i=0; i<m; i++){
+        dp[m-1][n-1] = 1;
 
-            int[] curr = new int[n];
+        for(int i=m-1; i>=0; i--){
+            for(int j=n-1; j>=0; j--){
 
-            for(int j=0; j<n; j++){
-
-                if(obstacleGrid[i][j]==1){
-                    curr[j] = 0;
+                if(obstacleGrid[i][j] == 1){
+                    dp[i][j] = 0;
                 }
-                else if(i==0 && j==0){
-                    curr[j] = 1;
+                else if(i == m-1 && j == n-1){
+                    dp[i][j] = 1;
                 }
                 else{
+                    int down = 0;
+                    int right = 0;
 
-                    int up = 0; 
-                    int left = 0;
-
-                    if(i>0){
-                        up = prev[j];
+                    if(i+1 < m){
+                        down = dp[i+1][j];
                     }
-                    if(j>0){
-                        left = curr[j-1];
+                    if(j+1 < n){
+                        right = dp[i][j+1];
                     }
 
-                    curr[j] = up + left;
+                    dp[i][j] = down + right;
                 }
             }
-            prev = curr;
         }
 
-        return prev[n-1];
+        return dp[0][0];
     }
 }
