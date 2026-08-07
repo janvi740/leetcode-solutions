@@ -3,14 +3,18 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        int[][] dp = new int[m][n];
+        int[] next = new int[n];
 
-        dp[m-1][n-1] = grid[m-1][n-1];
+        next[n-1] = grid[m-1][n-1];
 
         for(int i=m-1; i>=0; i--){
+
+            int[] curr = new int[n];
+
             for(int j=n-1; j>=0; j--){
 
                 if(i == m-1 && j == n-1){
+                    curr[j] = grid[i][j];
                     continue;
                 }
 
@@ -18,16 +22,17 @@ class Solution {
                 int right = Integer.MAX_VALUE;
 
                 if(i + 1 < m){
-                    down = grid[i][j] + dp[i+1][j];
+                    down = grid[i][j] + next[j];
                 }
                 if(j + 1 < n){
-                    right = grid[i][j] + dp[i][j+1];
+                    right = grid[i][j] + curr[j+1];
                 }
 
-                dp[i][j] = Math.min(down, right);
+                curr[j] = Math.min(down, right);
             }
+            next = curr;
         }
 
-        return dp[0][0];
+        return next[0];
     }
 }
