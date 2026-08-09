@@ -9,7 +9,7 @@ class Solution {
         }
 
         for(List<Integer> edge : connections){
-            int u =edge.get(0);
+            int u = edge.get(0);
             int v = edge.get(1);
 
             adj.get(u).add(v);
@@ -42,7 +42,7 @@ class Solution {
 
             if(!visited[neighbour]){
                 dfs(neighbour, node, adj, visited, tin, low, bridges);
-
+                
                 low[node] = Math.min(low[node], low[neighbour]);
 
                 if(low[neighbour] > tin[node]){
