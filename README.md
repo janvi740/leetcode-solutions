@@ -353,4 +353,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/janvi740/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/janvi740/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
