@@ -106,6 +106,7 @@
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/janvi740/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/janvi740/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -313,6 +314,7 @@
 | [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvi740/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
