@@ -10,6 +10,7 @@
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/janvi740/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -57,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/janvi740/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/janvi740/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
@@ -87,6 +89,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvi740/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/janvi740/leetcode-solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/janvi740/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -176,6 +179,7 @@
 | [0115-distinct-subsequences](https://github.com/janvi740/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/janvi740/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -195,6 +199,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -283,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -377,4 +383,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/janvi740/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
