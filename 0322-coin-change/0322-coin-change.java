@@ -2,38 +2,34 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
 
-        int[] prev = new int[amount+1];
+        int[][] dp = new int[n][amount+1];
 
         for(int amt=0; amt<=amount; amt++){
             if(amt % coins[0] == 0){
-                prev[amt] = amt/coins[0];
+                dp[0][amt] = amt / coins[0];
             }
             else{
-                prev[amt] = 1_000_000_000;
+                dp[0][amt] = (int) 1e9;
             }
         }
 
         for(int index=1; index<n; index++){
-
-            int[] curr = new int[amount+1];
-
             for(int amt=0; amt<=amount; amt++){
 
-                int notPick = prev[amt];
+                int notPick = dp[index-1][amt];
 
-                int pick = 1_000_000_000;
+                int pick = (int) 1e9;
 
                 if(coins[index] <= amt){
-                    pick = 1 + curr[amt-coins[index]];
+                    pick = 1 + dp[index][amt-coins[index]];
                 }
 
-                curr[amt] = Math.min(pick, notPick);
+                dp[index][amt] = Math.min(pick, notPick);
             }
-
-            prev = curr;
         }
 
-        int ans = prev[amount];
-        return ans >= 1_000_000_000 ? -1 : ans;
+        int ans = dp[n-1][amount];
+
+        return ans >= (int) 1e9 ? -1 : ans;
     }
 }
