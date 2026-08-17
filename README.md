@@ -98,6 +98,7 @@
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -146,6 +147,7 @@
 | [0322-coin-change](https://github.com/janvi740/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/janvi740/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -210,6 +212,7 @@
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -320,6 +323,7 @@
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvi740/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Binary Search
