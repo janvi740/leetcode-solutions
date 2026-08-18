@@ -77,6 +77,7 @@
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/janvi740/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
