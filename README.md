@@ -77,6 +77,7 @@
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/janvi740/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -212,6 +213,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -431,4 +433,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/janvi740/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
