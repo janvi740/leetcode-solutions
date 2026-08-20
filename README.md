@@ -89,6 +89,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/janvi740/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/janvi740/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -329,6 +330,7 @@
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0135-candy](https://github.com/janvi740/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/janvi740/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvi740/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
