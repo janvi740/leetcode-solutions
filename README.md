@@ -124,6 +124,7 @@
 | [1463-cherry-pickup-ii](https://github.com/janvi740/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/janvi740/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
