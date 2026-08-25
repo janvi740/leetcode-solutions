@@ -94,6 +94,7 @@
 | [0135-candy](https://github.com/janvi740/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvi740/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -203,6 +204,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janvi740/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0394-decode-string](https://github.com/janvi740/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
@@ -243,6 +245,7 @@
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/janvi740/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/janvi740/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -279,6 +282,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0494-target-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -473,4 +477,5 @@
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janvi740/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
