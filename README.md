@@ -127,6 +127,7 @@
 | [1463-cherry-pickup-ii](https://github.com/janvi740/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/janvi740/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -481,6 +482,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/janvi740/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,4 +491,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 <!---LeetCode Topics End-->
