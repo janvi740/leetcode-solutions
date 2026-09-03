@@ -6,20 +6,43 @@ class Solution {
             freq[task - 'A']++;
         }
 
-        int maxFreq = 0;
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a,b) -> b-a);
 
         for(int count : freq){
-            maxFreq = Math.max(maxFreq, count);
-        }
-
-        int countMaxFreq = 0;
-
-        for(int count : freq){
-            if(count == maxFreq){
-                countMaxFreq++;
+            if(count > 0){
+                maxHeap.offer(count);
             }
         }
 
-        return Math.max(tasks.length,(maxFreq - 1) * (n + 1) + countMaxFreq);
+        int time = 0;
+
+        while(!maxHeap.isEmpty()){
+            int cycle = n+1;
+
+            List<Integer> remaining = new ArrayList<>();
+
+            while(cycle > 0 && !maxHeap.isEmpty()){
+
+                int count = maxHeap.poll();
+                count--;
+
+                if(count > 0){
+                    remaining.add(count);
+                }
+
+                time++;
+                cycle--;
+            }
+
+            for(int count : remaining){
+                maxHeap.offer(count);
+            }
+
+            if(!maxHeap.isEmpty()){
+                time += cycle;
+            }
+        }
+
+        return time;
     }
 }
