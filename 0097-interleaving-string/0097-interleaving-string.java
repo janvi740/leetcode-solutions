@@ -7,29 +7,35 @@ class Solution {
             return false;
         }
 
-        boolean[][] dp = new boolean[n+1][m+1];
+        boolean[] prev= new boolean[m+1];
 
-        dp[0][0] = true;
+        prev[0] = true;
 
         for(int i=0; i<=n; i++){
+
+            boolean[] curr = new boolean[m+1];
+
             for(int j=0; j<=m; j++){
 
                 if(i==0 && j==0){
+                    curr[j] = true;
                     continue;
                 }
 
                 int k = i + j - 1;
 
                 if(i>0 && s1.charAt(i-1) == s3.charAt(k)){
-                    dp[i][j] = dp[i][j] || dp[i-1][j];
+                    curr[j] = curr[j] || prev[j];
                 }
 
                 if(j>0 && s2.charAt(j-1) == s3.charAt(k)){
-                    dp[i][j] = dp[i][j] || dp[i][j-1];
+                    curr[j] = curr[j] || curr[j-1];
                 }
             }
+
+            prev = curr;
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 }
