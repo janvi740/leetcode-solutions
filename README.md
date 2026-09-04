@@ -137,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
@@ -207,6 +208,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvi740/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/janvi740/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -287,6 +289,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0394-decode-string](https://github.com/janvi740/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/janvi740/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
