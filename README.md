@@ -125,6 +125,7 @@
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/janvi740/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/janvi740/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -251,6 +252,7 @@
 | [0621-task-scheduler](https://github.com/janvi740/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Matrix
@@ -282,6 +284,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/janvi740/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/janvi740/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +345,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +354,7 @@
 | [0621-task-scheduler](https://github.com/janvi740/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,4 +534,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
