@@ -97,6 +97,7 @@
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvi740/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/janvi740/leetcode-solutions/tree/main/0312-burst-balloons/) | Hard |
@@ -357,6 +358,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -382,6 +384,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/janvi740/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Enumeration
@@ -511,10 +514,19 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/janvi740/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
