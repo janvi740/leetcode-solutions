@@ -157,6 +157,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/janvi740/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -219,6 +220,7 @@
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/janvi740/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/janvi740/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janvi740/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -305,6 +307,7 @@
 | [0022-generate-parentheses](https://github.com/janvi740/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0494-target-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 ## Tree
