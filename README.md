@@ -206,6 +206,7 @@
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@
 | [0678-valid-parenthesis-string](https://github.com/janvi740/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/janvi740/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -338,6 +340,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janvi740/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +401,7 @@
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
