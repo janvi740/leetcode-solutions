@@ -123,6 +123,7 @@
 | [0827-making-a-large-island](https://github.com/janvi740/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -258,6 +259,7 @@
 | [0621-task-scheduler](https://github.com/janvi740/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -424,6 +426,7 @@
 | [0503-next-greater-element-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/janvi740/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/janvi740/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +435,7 @@
 | [0496-next-greater-element-i](https://github.com/janvi740/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/janvi740/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
