@@ -361,6 +361,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -540,6 +541,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
