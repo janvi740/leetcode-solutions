@@ -79,6 +79,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/janvi740/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/janvi740/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
@@ -315,6 +316,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/janvi740/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/janvi740/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
