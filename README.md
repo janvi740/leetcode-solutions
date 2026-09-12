@@ -85,6 +85,7 @@
 | [0057-insert-interval](https://github.com/janvi740/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/janvi740/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/janvi740/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/janvi740/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
@@ -317,6 +318,7 @@
 | [0022-generate-parentheses](https://github.com/janvi740/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/janvi740/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/janvi740/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
@@ -552,6 +554,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/janvi740/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
