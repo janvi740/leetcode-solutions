@@ -81,6 +81,7 @@
 | [0040-combination-sum-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/janvi740/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/janvi740/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -262,6 +263,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/janvi740/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -324,6 +326,7 @@
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/janvi740/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/janvi740/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
