@@ -101,6 +101,7 @@
 | [0134-gas-station](https://github.com/janvi740/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/janvi740/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/janvi740/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/janvi740/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -169,6 +170,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/janvi740/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
