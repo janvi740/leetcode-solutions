@@ -100,6 +100,7 @@
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/janvi740/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/janvi740/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/janvi740/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/janvi740/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -566,6 +567,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/janvi740/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/janvi740/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
