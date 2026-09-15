@@ -8,31 +8,33 @@ class Solution {
 
         List<List<Integer>> ans = new ArrayList<>();
 
-        //Pacific Ocean
-        for(int col=0; col<n; col++){
-            dfs(0, col, heights, pacific);
-        }
-
+        //Pacific
         for(int row=0; row<m; row++){
             dfs(row, 0, heights, pacific);
         }
 
+        for(int col=0; col<n; col++){
+            dfs(0, col, heights, pacific);
+        }
+
         //Atlantic
+        for(int row=0; row<m; row++){
+            dfs(row, n-1, heights, atlantic);
+        }
+
         for(int col=0; col<n; col++){
             dfs(m-1, col, heights, atlantic);
         }
 
         for(int row=0; row<m; row++){
-            dfs(row, n-1, heights, atlantic);
-        }
-
-        for(int row=0; row<m; row++){
             for(int col=0; col<n; col++){
+
                 if(pacific[row][col] && atlantic[row][col]){
                     ans.add(Arrays.asList(row, col));
                 }
             }
         }
+
         return ans;
     }
 
@@ -46,10 +48,11 @@ class Solution {
         int[] dCol = {0, 1, 0, -1};
 
         for(int i=0; i<4; i++){
+
             int newRow = row + dRow[i];
             int newCol = col + dCol[i];
 
-            if (newRow < 0 || newRow >= m || newCol < 0 || newCol >= n) {
+            if(newRow<0 || newRow>=m || newCol<0 || newCol>=n){
                 continue;
             }
 
