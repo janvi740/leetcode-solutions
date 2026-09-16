@@ -387,6 +387,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0190-reverse-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
@@ -570,6 +571,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/janvi740/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/janvi740/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
