@@ -306,6 +306,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/janvi740/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/janvi740/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/janvi740/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/janvi740/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
