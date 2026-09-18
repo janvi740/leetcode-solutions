@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/janvi740/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/janvi740/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
@@ -346,6 +347,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janvi740/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -356,6 +358,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janvi740/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -387,6 +390,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/janvi740/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/janvi740/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0355-design-twitter](https://github.com/janvi740/leetcode-solutions/tree/main/0355-design-twitter/) | Medium |
 ## Divide and Conquer
@@ -463,6 +467,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/janvi740/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/janvi740/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0394-decode-string](https://github.com/janvi740/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/janvi740/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
