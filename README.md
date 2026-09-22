@@ -326,6 +326,7 @@
 | [0010-regular-expression-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/janvi740/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/janvi740/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0394-decode-string](https://github.com/janvi740/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/janvi740/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
@@ -392,6 +393,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/janvi740/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/janvi740/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0355-design-twitter](https://github.com/janvi740/leetcode-solutions/tree/main/0355-design-twitter/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -420,6 +422,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
@@ -468,6 +471,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/janvi740/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/janvi740/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0394-decode-string](https://github.com/janvi740/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/janvi740/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
