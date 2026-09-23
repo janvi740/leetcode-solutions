@@ -278,6 +278,7 @@
 | [0047-permutations-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/janvi740/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -400,12 +401,14 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/janvi740/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0355-design-twitter](https://github.com/janvi740/leetcode-solutions/tree/main/0355-design-twitter/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janvi740/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/janvi740/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -424,11 +427,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
