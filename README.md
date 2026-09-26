@@ -416,6 +416,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/janvi740/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0086-partition-list](https://github.com/janvi740/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/janvi740/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/janvi740/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
@@ -451,6 +452,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0086-partition-list](https://github.com/janvi740/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
