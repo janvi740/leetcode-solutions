@@ -152,6 +152,7 @@
 | [1463-cherry-pickup-ii](https://github.com/janvi740/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/janvi740/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Dynamic Programming
@@ -236,6 +237,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +285,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/janvi740/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +486,7 @@
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -665,6 +669,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
