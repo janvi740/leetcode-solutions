@@ -81,6 +81,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/janvi740/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -457,6 +458,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvi740/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0031-next-permutation](https://github.com/janvi740/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0086-partition-list](https://github.com/janvi740/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/janvi740/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/janvi740/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
