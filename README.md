@@ -145,6 +145,7 @@
 | [0695-max-area-of-island](https://github.com/janvi740/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvi740/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/janvi740/leetcode-solutions/tree/main/0721-accounts-merge/) | Medium |
+| [0735-asteroid-collision](https://github.com/janvi740/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/janvi740/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/janvi740/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -536,6 +537,7 @@
 | [0496-next-greater-element-i](https://github.com/janvi740/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/janvi740/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0735-asteroid-collision](https://github.com/janvi740/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/janvi740/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/janvi740/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -711,4 +713,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/janvi740/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/janvi740/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
