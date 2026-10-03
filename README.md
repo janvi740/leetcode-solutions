@@ -155,6 +155,7 @@
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/janvi740/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -250,6 +251,7 @@
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/janvi740/leetcode-solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -302,6 +304,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/janvi740/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -703,6 +706,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
