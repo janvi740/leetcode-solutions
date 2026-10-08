@@ -98,6 +98,7 @@
 | [0047-permutations-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/janvi740/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/janvi740/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/janvi740/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/janvi740/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/janvi740/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/janvi740/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
@@ -336,6 +337,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/janvi740/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/janvi740/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -742,6 +744,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/janvi740/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/janvi740/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
