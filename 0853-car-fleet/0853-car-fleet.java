@@ -9,21 +9,19 @@ class Solution {
 
         Arrays.sort(cars, (a,b) -> Integer.compare(b[0], a[0]));
 
-        Stack<Double> stack = new Stack<>();
+        int fleets = 0;
+        double lastTime = 0;
 
         for(int i=0; i<cars.length; i++){
 
             double time = (double) (target - cars[i][0]) / cars[i][1];
 
-            if(stack.isEmpty()){
-                stack.push(time);
-            }
-
-            else if(!stack.isEmpty() && time > stack.peek()){
-                stack.push(time);
+            if(time > lastTime){
+                fleets++;
+                lastTime = time;
             }
         }
 
-        return stack.size(); 
+        return fleets;
     }
 }
