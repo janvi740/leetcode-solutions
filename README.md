@@ -160,6 +160,7 @@
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/janvi740/leetcode-solutions/tree/main/0934-shortest-bridge/) | Medium |
@@ -313,6 +314,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/janvi740/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/janvi740/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
@@ -486,6 +488,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/janvi740/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/janvi740/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/janvi740/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
@@ -536,6 +539,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Enumeration
@@ -727,6 +731,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Brute-Force Search
@@ -750,4 +755,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/janvi740/leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
