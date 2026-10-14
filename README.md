@@ -171,6 +171,7 @@
 | [1046-last-stone-weight](https://github.com/janvi740/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/janvi740/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/janvi740/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/janvi740/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -337,6 +338,7 @@
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -494,6 +496,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/janvi740/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +535,7 @@
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/janvi740/leetcode-solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
