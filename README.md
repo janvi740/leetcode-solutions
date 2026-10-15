@@ -162,6 +162,7 @@
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0860-lemonade-change](https://github.com/janvi740/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/janvi740/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -230,6 +231,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvi740/leetcode-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/janvi740/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/janvi740/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -581,6 +583,7 @@
 | [0739-daily-temperatures](https://github.com/janvi740/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/janvi740/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/janvi740/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/janvi740/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -592,6 +595,7 @@
 | [0739-daily-temperatures](https://github.com/janvi740/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/janvi740/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/janvi740/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
