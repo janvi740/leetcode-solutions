@@ -166,6 +166,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/janvi740/leetcode-solutions/tree/main/0934-shortest-bridge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0994-rotting-oranges](https://github.com/janvi740/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/janvi740/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/janvi740/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -230,6 +231,7 @@
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/janvi740/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/janvi740/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -319,6 +321,7 @@
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
