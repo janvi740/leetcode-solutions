@@ -181,6 +181,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/janvi740/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
+| [1898-maximum-number-of-removable-characters](https://github.com/janvi740/leetcode-solutions/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -317,6 +318,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/janvi740/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/janvi740/leetcode-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/janvi740/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1898-maximum-number-of-removable-characters](https://github.com/janvi740/leetcode-solutions/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,6 +532,7 @@
 | [0763-partition-labels](https://github.com/janvi740/leetcode-solutions/tree/main/0763-partition-labels/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/janvi740/leetcode-solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1898-maximum-number-of-removable-characters](https://github.com/janvi740/leetcode-solutions/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,6 +566,7 @@
 | [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/janvi740/leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1898-maximum-number-of-removable-characters](https://github.com/janvi740/leetcode-solutions/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
