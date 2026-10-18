@@ -173,6 +173,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/janvi740/leetcode-solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1046-last-stone-weight](https://github.com/janvi740/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/janvi740/leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/janvi740/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/janvi740/leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -239,6 +240,7 @@
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/janvi740/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/janvi740/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/janvi740/leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/janvi740/leetcode-solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/janvi740/leetcode-solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/janvi740/leetcode-solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -347,6 +349,7 @@
 | [0853-car-fleet](https://github.com/janvi740/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/janvi740/leetcode-solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/janvi740/leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/janvi740/leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/janvi740/leetcode-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -558,6 +561,7 @@
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/janvi740/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/janvi740/leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
