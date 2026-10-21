@@ -42,6 +42,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/janvi740/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/janvi740/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0407-trapping-rain-water-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/janvi740/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/janvi740/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -137,6 +138,7 @@
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/janvi740/leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0377-combination-sum-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0377-combination-sum-iv/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/janvi740/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -371,6 +373,7 @@
 | [0130-surrounded-regions](https://github.com/janvi740/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0212-word-search-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/janvi740/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0407-trapping-rain-water-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/janvi740/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/janvi740/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/janvi740/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -508,6 +511,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/janvi740/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/janvi740/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0355-design-twitter](https://github.com/janvi740/leetcode-solutions/tree/main/0355-design-twitter/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0621-task-scheduler](https://github.com/janvi740/leetcode-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/janvi740/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/janvi740/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
