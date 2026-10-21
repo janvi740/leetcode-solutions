@@ -184,6 +184,7 @@
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/janvi740/leetcode-solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1898-maximum-number-of-removable-characters](https://github.com/janvi740/leetcode-solutions/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/janvi740/leetcode-solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [2762-continuous-subarrays](https://github.com/janvi740/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +336,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/janvi740/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2762-continuous-subarrays](https://github.com/janvi740/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,6 +517,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/janvi740/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/janvi740/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/janvi740/leetcode-solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [2762-continuous-subarrays](https://github.com/janvi740/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -790,9 +793,15 @@
 | [0649-dota2-senate](https://github.com/janvi740/leetcode-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2762-continuous-subarrays](https://github.com/janvi740/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/janvi740/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2762-continuous-subarrays](https://github.com/janvi740/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2762-continuous-subarrays](https://github.com/janvi740/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 <!---LeetCode Topics End-->
