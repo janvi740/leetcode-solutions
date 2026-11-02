@@ -123,6 +123,7 @@
 | [0136-single-number](https://github.com/janvi740/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/janvi740/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/janvi740/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/janvi740/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvi740/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/janvi740/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -566,6 +567,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/janvi740/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/janvi740/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/janvi740/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/janvi740/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
